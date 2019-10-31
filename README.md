@@ -1,3 +1,7 @@
 # Nueva version del fichero
-## Su subtítulo 1
-## Su subtítulo 2
+## Sub subtítulo 1
+## Sub subtítulo 2
+
+# Otro titulo principal 
+## Subtitulo 1
+## Subtítulo 2
