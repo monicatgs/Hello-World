@@ -22,3 +22,5 @@ Update 1.5
 Cambio en master
 
 Cambio pull 
+
+Cambio en Master 2019-10-31
